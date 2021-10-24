@@ -1,2 +1,3 @@
-# Gender Detection
-# Multiplication Taable
+# Work
+Gender Detection
+Multiplication Table
